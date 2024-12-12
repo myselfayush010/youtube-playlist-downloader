@@ -19,6 +19,11 @@
  - pip install -r requirements.txt
  - pip install -r requirements.txt --upgrade
  ```
+#how to use
+```bash
+- python y.py youtube video link -r 1080p
+- python y.py youtube video link -a   #audio only
+```
 ## ⭐ Key Features
 
 - 🎥 **Video Downloads**
