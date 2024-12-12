@@ -66,8 +66,8 @@
    Open Command Prompt or PowerShell:
 
    ```bash
-   https://github.com/myselfayush010/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
+   git clone https://github.com/yourusername/youtube-downloader.git
+   cd youtube-downloader
    ```
 
 4. **Create and Activate Virtual Environment:**
@@ -79,11 +79,13 @@
 
 5. **Install Dependencies:**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
+```bash
+pip install -r requirements-prod.txt
+pip install -r requirements-dev.txt
+pip install -r requirements.txt
+pip install -r requirements-docs.txt
+pip install -r requirements-optional.txt
+```
 
 ### Linux Installation
 
@@ -99,8 +101,8 @@
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
+   git clone https://github.com/yourusername/youtube-downloader.git
+   cd youtube-downloader
    ```
 
 3. **Create and Activate Virtual Environment:**
@@ -135,8 +137,8 @@
 3. **Clone the Repository:**
 
    ```bash
-  https://github.com/myselfayush010/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
+   git clone https://github.com/yourusername/youtube-downloader.git
+   cd youtube-downloader
    ```
 
 4. **Create and Activate Virtual Environment:**
@@ -148,11 +150,13 @@
 
 5. **Install Dependencies:**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
+```bash
+pip install -r requirements-prod.txt
+pip install -r requirements-dev.txt
+pip install -r requirements.txt
+pip install -r requirements-docs.txt
+pip install -r requirements-optional.txt
+```
 
 ## 💻 Usage Examples
 
@@ -244,7 +248,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 ## 💬 Support
 
-For support, open an issue on the [GitHub repository](https://github.com/myselfayush010/youtube-playlist-downloader/issues).
+For support, open an issue on the [GitHub repository](https://github.com/yourusername/youtube-downloader/issues).
 
 ---
 
