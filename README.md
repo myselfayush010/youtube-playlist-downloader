@@ -66,8 +66,8 @@
    Open Command Prompt or PowerShell:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+   https://github.com/myselfayush010/youtube-playlist-downloader.git
+   cd youtube-playlist-downloader
    ```
 
 4. **Create and Activate Virtual Environment:**
@@ -99,8 +99,8 @@
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
+   cd youtube-playlist-downloader
    ```
 
 3. **Create and Activate Virtual Environment:**
@@ -135,8 +135,8 @@
 3. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+  https://github.com/myselfayush010/youtube-playlist-downloader.git
+   cd youtube-playlist-downloader
    ```
 
 4. **Create and Activate Virtual Environment:**
@@ -244,7 +244,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 ## 💬 Support
 
-For support, open an issue on the [GitHub repository](https://github.com/yourusername/youtube-downloader/issues).
+For support, open an issue on the [GitHub repository](https://github.com/myselfayush010/youtube-playlist-downloader/issues).
 
 ---
 
