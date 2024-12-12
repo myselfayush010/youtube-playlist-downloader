@@ -15,9 +15,15 @@
   - Format: MP4 (H.264)
   - Quality Selection
 
+<<<<<<< HEAD
 - 🎵 **Audio Downloads**
   - High Quality (320kbps)
   - Format: M4A
+=======
+- Python 3.x
+- FFmpeg (required for video processing)
+- in window you need to install menually FFmpeg
+>>>>>>> 39cfe7cb57e683ec7c045ba89de52aeeba295cfa
 
 - 📑 **Advanced Features**
   - Playlist Support
@@ -25,6 +31,7 @@
   - Progress Tracking
   - Custom Output Path
 
+<<<<<<< HEAD
 ---
 
 ## 🚀 Installation
@@ -72,11 +79,13 @@
 
 5. **Install Dependencies:**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
+```bash
+pip install -r requirements-prod.txt
+pip install -r requirements-dev.txt
+pip install -r requirements.txt
+pip install -r requirements-docs.txt
+pip install -r requirements-optional.txt
+```
 
 ### Linux Installation
 
@@ -141,11 +150,13 @@
 
 5. **Install Dependencies:**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
+```bash
+pip install -r requirements-prod.txt
+pip install -r requirements-dev.txt
+pip install -r requirements.txt
+pip install -r requirements-docs.txt
+pip install -r requirements-optional.txt
+```
 
 ## 💻 Usage Examples
 
@@ -242,3 +253,9 @@ For support, open an issue on the [GitHub repository](https://github.com/youruse
 ---
 
 Happy downloading! 🎉
+=======
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/youtube-downloader.git
+cd youtube-downloader
+>>>>>>> 39cfe7cb57e683ec7c045ba89de52aeeba295cfa

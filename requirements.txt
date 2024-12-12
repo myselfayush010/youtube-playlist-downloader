@@ -1,45 +1,6 @@
-# Core Dependencies
 yt-dlp==2023.12.30
 pathlib==1.0.1
 requests==2.31.0
-
-# GUI and Interface
-tk==8.6.12
-customtkinter==5.2.1
-
-# Video Processing
 ffmpeg-python==0.2.0
 moviepy==1.0.3
-
-# Progress and UI Enhancement
-tqdm==4.66.1
-rich==13.7.0
-colorama==0.4.6
-
-# Error Handling and Logging
 loguru==0.7.2
-
-[prod]
-yt-dlp==2023.12.30
-pathlib==1.0.1
-ffmpeg-python==0.2.0
-tqdm==4.66.1
-colorama==0.4.6
-
-[dev]
-black==23.12.1
-pylint==3.0.3
-pytest==7.4.4
-pytest-cov==4.1.0
-flake8==7.0.0
-mypy==1.8.0
-
-[docs]
-mkdocs==1.5.3
-mkdocs-material==9.5.3
-pdoc3==0.10.0
-
-[optional]
-moviepy==1.0.3
-customtkinter==5.2.1
-rich==13.7.0
