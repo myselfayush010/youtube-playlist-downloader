@@ -8,11 +8,12 @@
 
 🎬 High-performance YouTube video and playlist downloader with customizable quality settings.
 
-```bash
+
 ## 🚀 Installation
 
-- best choice wsl and  linux 
- - sudo apt install ffmpeg   in debian based kali ubuntu parrot
+- best choice wsl and  linux [  debian based kali ubuntu parrot ]
+```bash
+ - sudo apt install ffmpeg 
  - pip install -r requirements.txt
  - pip install -r requirements.txt --upgrade
  ```
