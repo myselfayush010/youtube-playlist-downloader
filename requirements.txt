@@ -1,0 +1,5 @@
+yt-dlp
+pathlib
+requests
+ffmpeg-python
+moviepy
