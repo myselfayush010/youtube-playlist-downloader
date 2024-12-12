@@ -67,8 +67,8 @@
    Open Command Prompt or PowerShell:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
+   cd youtube-playlist-downloader
    ```
 
 4. **Create and Activate Virtual Environment:**
@@ -81,11 +81,7 @@
 5. **Install Dependencies:**
 
 ```bash
-pip install -r requirements-prod.txt
-pip install -r requirements-dev.txt
 pip install -r requirements.txt
-pip install -r requirements-docs.txt
-pip install -r requirements-optional.txt
 ```
 
 ### Linux Installation
@@ -102,8 +98,8 @@ pip install -r requirements-optional.txt
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
+   cd youtube-playlist-downloader
    ```
 
 3. **Create and Activate Virtual Environment:**
@@ -126,7 +122,7 @@ pip install -r requirements-optional.txt
 1. **Install Homebrew** (if not already installed):
 
    ```bash
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   /bin/bash -c "$(curl -fsSL https://github.com/myselfayush010/youtube-playlist-downloader.git/Homebrew/install/HEAD/install.sh)"
    ```
 
 2. **Install Python and FFmpeg:**
@@ -138,8 +134,8 @@ pip install -r requirements-optional.txt
 3. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
+   cd youtube-playlist-downloader
    ```
 
 4. **Create and Activate Virtual Environment:**
@@ -152,11 +148,7 @@ pip install -r requirements-optional.txt
 5. **Install Dependencies:**
 
 ```bash
-pip install -r requirements-prod.txt
-pip install -r requirements-dev.txt
 pip install -r requirements.txt
-pip install -r requirements-docs.txt
-pip install -r requirements-optional.txt
 ```
 
 ## 💻 Usage Examples
