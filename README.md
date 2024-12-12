@@ -14,7 +14,7 @@ A Python-based tool for downloading YouTube playlists with customizable video qu
 
 - Python 3.x
 - FFmpeg (required for video processing)
-- Windows 10/11
+- in window you need to install menually FFmpeg
 
 ## Installation
 
