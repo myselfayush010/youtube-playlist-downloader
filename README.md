@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YouTube Video Downloader 📺
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
@@ -9,6 +8,14 @@
 
 🎬 High-performance YouTube video and playlist downloader with customizable quality settings.
 
+```bash
+## 🚀 Installation
+
+- best choice wsl and  linux 
+ - sudo apt install ffmpeg   in debian based kali ubuntu parrot
+ - pip install -r requirements.txt
+ - pip install -r requirements.txt --upgrade
+ ```
 ## ⭐ Key Features
 
 - 🎥 **Video Downloads**
@@ -24,7 +31,6 @@
 - Python 3.x
 - FFmpeg (required for video processing)
 - in window you need to install menually FFmpeg
->>>>>>> 39cfe7cb57e683ec7c045ba89de52aeeba295cfa
 
 - 📑 **Advanced Features**
   - Playlist Support
@@ -32,124 +38,6 @@
   - Progress Tracking
   - Custom Output Path
 
-<<<<<<< HEAD
----
-
-## 🚀 Installation
-
-### Prerequisites
-
-- **Python 3.8** or higher
-- **FFmpeg**
-- **Internet Connection**
-- **100MB free disk space**
-
----
-
-### Windows Installation
-
-1. **Install Python:**
-
-   Download and install Python from the [official website](https://www.python.org/downloads/windows/). During installation, make sure to check the box **"Add Python to PATH"**.
-
-2. **Install FFmpeg:**
-
-   - Using **winget** (Windows Package Manager):
-
-     ```powershell
-     winget install ffmpeg
-     ```
-
-   - Or download FFmpeg from [ffmpeg.org](https://ffmpeg.org/download.html) and add the `bin` folder to your system PATH.
-
-3. **Clone the Repository:**
-
-   Open Command Prompt or PowerShell:
-
-   ```bash
-   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
-   ```
-
-4. **Create and Activate Virtual Environment:**
-
-   ```bash
-   python -m venv venv
-   .\venv\Scripts\activate
-   ```
-
-5. **Install Dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-### Linux Installation
-
-1. **Install Python and FFmpeg:**
-
-   For Debian/Ubuntu-based distributions:
-
-   ```bash
-   sudo apt update
-   sudo apt install python3 python3-venv python3-pip ffmpeg git
-   ```
-
-2. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
-   ```
-
-3. **Create and Activate Virtual Environment:**
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
-4. **Install Dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-### macOS Installation
-
-1. **Install Homebrew** (if not already installed):
-
-   ```bash
-   /bin/bash -c "$(curl -fsSL https://github.com/myselfayush010/youtube-playlist-downloader.git/Homebrew/install/HEAD/install.sh)"
-   ```
-
-2. **Install Python and FFmpeg:**
-
-   ```bash
-   brew install python@3.9 ffmpeg git
-   ```
-
-3. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
-   ```
-
-4. **Create and Activate Virtual Environment:**
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
-5. **Install Dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
 
 ## 💻 Usage Examples
 
