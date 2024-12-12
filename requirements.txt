@@ -1,20 +1,6 @@
-# Core Dependencies
 yt-dlp==2023.12.30
 pathlib==1.0.1
 requests==2.31.0
-
-# GUI and Interface
-tk==8.6.12
-customtkinter==5.2.1
-
-# Video Processing
 ffmpeg-python==0.2.0
 moviepy==1.0.3
-
-# Progress and UI Enhancement
-tqdm==4.66.1
-rich==13.7.0
-colorama==0.4.6
-
-# Error Handling and Logging
 loguru==0.7.2

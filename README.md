@@ -80,11 +80,7 @@
 5. **Install Dependencies:**
 
 ```bash
-pip install -r requirements-prod.txt
-pip install -r requirements-dev.txt
 pip install -r requirements.txt
-pip install -r requirements-docs.txt
-pip install -r requirements-optional.txt
 ```
 
 ### Linux Installation
@@ -151,11 +147,7 @@ pip install -r requirements-optional.txt
 5. **Install Dependencies:**
 
 ```bash
-pip install -r requirements-prod.txt
-pip install -r requirements-dev.txt
 pip install -r requirements.txt
-pip install -r requirements-docs.txt
-pip install -r requirements-optional.txt
 ```
 
 ## 💻 Usage Examples
