@@ -31,7 +31,6 @@
   - Format: MP4 (H.264)
   - Quality Selection
 
-<<<<<<< HEAD
 - 🎵 **Audio Downloads**
   - High Quality (320kbps)
   - Format: M4A
@@ -58,7 +57,7 @@
 - **Download Playlist (720p):**
 
   ```bash
-  python y.py "https://youtube.com/playlist?list=..." -r 720
+  python y.py "https://youtube.com/playlist?list=..." -r 720p
   ```
 
 - **Download Audio Only:**
