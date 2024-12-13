@@ -13,11 +13,11 @@
 
 - best choice wsl and  linux [  debian based kali ubuntu parrot ]
 ```bash
- - git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
- - cd  youtube-playlist-downloader
- - sudo apt install ffmpeg 
- - pip install -r requirements.txt
- - pip install -r requirements.txt --upgrade
+ git clone https://github.com/myselfayush010/youtube-playlist-downloader.git
+ cd  youtube-playlist-downloader
+ sudo apt install ffmpeg 
+ pip install -r requirements.txt
+ pip install -r requirements.txt --upgrade
  ```
 #how to use
 ```bash
